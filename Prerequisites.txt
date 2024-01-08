@@ -1,0 +1,5 @@
+Python 3.x
+OpenCV
+NumPy
+scikit-learn
+Other dependencies (install using `pip install -r requirements.txt`)
